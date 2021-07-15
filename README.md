@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi
-I am a begginer web developer from krakow, poland
+I am a begginer web developer from kraków, poland
 
 - I develop skills in frontend technologies
 - extend my knowledge about web
