@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi
-I am a begginer web developer from kraków, poland
+ I am exploring knowledge in data analysis and data visualization. Not forgetting web development. from kraków, poland
 
-- I develop skills in frontend technologies
+- I develop skills in analisys technologies
 - extend my knowledge about web
 
 <br>
@@ -31,6 +31,7 @@ I am a begginer web developer from kraków, poland
 <br>
 
 # Competence
+
 
 <img align="left" alt="html5" src="https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=for-the-badge" />
 
